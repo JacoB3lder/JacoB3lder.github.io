@@ -160,7 +160,7 @@ nav h1 {
   color: #d3e1ee;
 }
 /* Portfolio styles */
-.content h1 {
+.content h1, h3 {
   font-family:Impact;
   color: black;
 }
